@@ -1,0 +1,19 @@
+
+.btn-toolbar{
+  width: 180px;
+  margin: 50px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.gomb{
+  width: 40px;
+  margin: 2px 2px;
+}
+
+#kijelzo{
+  width: 172px;
+  text-align: right;
+  margin: 2px 2px;
+}
